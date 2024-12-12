@@ -1,0 +1,128 @@
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.deps.json
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.runtimeconfig.json
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.runtimeconfig.dev.json
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.dll
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csprojAssemblyReference.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csproj.CoreCompileInputs.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorAssemblyInfo.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorAssemblyInfo.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.AssemblyInfoInputs.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.AssemblyInfo.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorTargetAssemblyInfo.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.dll
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.Views.dll
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.Views.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.TagHelpers.input.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.TagHelpers.output.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorCoreGenerate.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorTargetAssemblyInfo.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.Views.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csproj.CopyComplete
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.deps.json
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.runtimeconfig.json
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.runtimeconfig.dev.json
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.dll
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.Views.dll
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.Views.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csprojAssemblyReference.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csproj.CoreCompileInputs.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorAssemblyInfo.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorAssemblyInfo.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.AssemblyInfoInputs.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.AssemblyInfo.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.TagHelpers.input.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.TagHelpers.output.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorCoreGenerate.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorTargetAssemblyInfo.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorTargetAssemblyInfo.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.Views.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.dll
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\VD\B1_I_3 - Copy\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csproj.CopyComplete
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.deps.json
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.runtimeconfig.json
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.runtimeconfig.dev.json
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.dll
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.Views.dll
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.Views.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csproj.CoreCompileInputs.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorAssemblyInfo.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorAssemblyInfo.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.AssemblyInfoInputs.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.AssemblyInfo.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.TagHelpers.input.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.TagHelpers.output.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorCoreGenerate.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorTargetAssemblyInfo.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorTargetAssemblyInfo.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.Views.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.dll
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csproj.CopyComplete
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Nhasanxuat\Index.g.cshtml.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csprojAssemblyReference.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Nhasanxuat\them.g.cshtml.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Nhasanxuat\sua.g.cshtml.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\B1_I_3 - VD_ViewBag\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Nhasanxuat\xoa.g.cshtml.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.deps.json
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.runtimeconfig.json
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.runtimeconfig.dev.json
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.dll
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.Views.dll
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.Views.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csproj.CoreCompileInputs.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorAssemblyInfo.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorAssemblyInfo.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.AssemblyInfoInputs.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.AssemblyInfo.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.TagHelpers.input.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.TagHelpers.output.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorCoreGenerate.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Nhasanxuat\Index.g.cshtml.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Nhasanxuat\sua.g.cshtml.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Nhasanxuat\them.g.cshtml.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Nhasanxuat\xoa.g.cshtml.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorTargetAssemblyInfo.cache
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorTargetAssemblyInfo.cs
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.Views.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.dll
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.pdb
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csproj.CopyComplete
+D:\Kill2you\Quan_Trong\LT Windows C#\LTWindows 2023\TH\Lab1_2\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.deps.json
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.runtimeconfig.json
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.dll
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.pdb
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.Views.dll
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\bin\Debug\netcoreapp2.1\B1_I_3.Views.pdb
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.AssemblyInfo.cs
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.TagHelpers.input.cache
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.TagHelpers.output.cache
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorCoreGenerate.cache
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Nhasanxuat\Index.cshtml.g.cs
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Nhasanxuat\sua.cshtml.g.cs
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Nhasanxuat\them.cshtml.g.cs
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\Razor\Views\Nhasanxuat\xoa.cshtml.g.cs
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.Views.pdb
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.dll
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.pdb
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.genruntimeconfig.cache
+C:\Users\Admin\Documents\Downloads\test\Tuan 1\Lab1_2_Tuan4\B1_I_3\obj\Debug\netcoreapp2.1\B1_I_3.csproj.Up2Date

@@ -1,0 +1,44 @@
+﻿@*@model IEnumerable<B1_I_3.Models.Nhasanxuat>*@
+@{
+    Layout = null;
+} 
+<style>
+    table,th,td{
+        border:1px solid black;
+        border-collapse:collapse;        
+    }
+    th,td{
+        padding:15px;
+    }
+    th{
+        text-align:center;
+    }
+    table{
+        border-spacing:5px;
+    }
+</style>
+<h2>Thông tin các nhà sản xuất</h2>
+<p>
+    <a href="@Url.Action("them")">Thêm mới</a>
+</p>
+<table>
+    <tr>
+        <th>Tên nhà sản xuất</th>
+        <th>Địa chỉ</th>
+        <th>Tác vụ</th>
+    </tr>
+    @{
+        foreach (var item in ViewBag.nsx)
+        // foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Tennsx</td>
+                <td>@item.Diachi</td>
+                <td>
+                    <a href="@Url.Action("sua","Nhasanxuat",new { id = item.Mansx })">Sửa</a> |
+                    <a href="@Url.Action("xoa","Nhasanxuat",new { id = item.Mansx })">Xóa</a>
+                </td>
+            </tr>
+        }               
+    }
+</table>
